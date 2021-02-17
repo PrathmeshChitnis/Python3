@@ -1,6 +1,23 @@
 Python 3
     >   Concepts
-    
+            >list
+                *methods 
+                *list as stack
+                *list as queue
+                *Method Description
+                Python List 
+                append()    Add a single element to the end of the list
+                clear()     Removes all Items from the List
+                copy()      returns a shallow copy of the list
+                count()     returns count of the element in the list
+                extend()    adds iterable elements to the end of the list
+                index()     returns the index of the element in the list
+                insert()    insert an element to the list
+                pop()       Removes element at the given index
+                remove()    Removes item from the list
+                reverse()   reverses the list
+                sort()      sorts elements of a list
+                
             > strings.pu
                 * String Slicing and String Functions
                 * Single slice and extended slice
@@ -56,4 +73,6 @@ Python 3
                     float
                     string
                     char
-                    boolean         
+                    boolean        
+            
+             
