@@ -79,13 +79,11 @@
 #
 # my_queue.pop(0)
 # print(my_queue)
+#
+# joining two list using extend() method
 
-"""List comprihention """
+my_list1 = ['1', '2', '3']
+my_list2 = ['Apple', 'Banana', 'Mango']
 
-
-
-
-
-
-
-
+my_list1.extend(my_list2)
+print(my_list1)
