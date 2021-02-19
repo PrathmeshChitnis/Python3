@@ -80,7 +80,7 @@ print(my_queue)
 my_queue.pop(0)
 print(my_queue)
 
-joining two list using extend() method
+# joining two list using extend() method
 
 my_list1 = ['1', '2', '3']
 my_list2 = ['Apple', 'Banana', 'Mango']
