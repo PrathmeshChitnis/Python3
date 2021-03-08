@@ -1,0 +1,7 @@
+
+     By splitting the operations between hardware and software, we achieve sufficient flexibility to control the level of significance of the tests.
+    This approach also enables sharing resources between different tests thereby reducing the area and power.
+       Statistical tests were selected from the NIST test suite.
+    We propose several versions of hardware co-processors for monitoring random bit sequences,
+        ranging from 52 slices (5 tests) to 552 slices (9 tests) on Spartan-6 FPGA.
+    We are the first to provide implementations of the Serial test and the Approximate entropy test for on-the-fly monitoring.
